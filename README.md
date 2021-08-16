@@ -9,3 +9,8 @@ Adding more starter text
 Sample website with plenty of files for demos
 
 Addming more purpose text
+
+##Deployment
+Deployment instructions
+
+More deployemtn instructions
